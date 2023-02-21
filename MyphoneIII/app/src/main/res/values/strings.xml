@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Myphone3</string>
+    <string name="ladouno">Lado Uno</string>
+    <string name="ladodos">Lado Dos</string>
+    <string name="Calcular">Calculo</string>
+    <string name="Resultado">El Resultado es: </string>
 </resources>
